@@ -18,7 +18,8 @@ int main () {
     char estado__01[2];
     char codigo__01[4];
     char nome_da_cidade__01[200];
-    int populacao__01, numero_pontos_turisticos__01;
+    unsigned long int populacao__01;
+    int numero_pontos_turisticos__01;
     float densidadePopulacional__01;
     float pibPerCapta__01;
 
@@ -28,7 +29,8 @@ int main () {
     char estado__02[2];
     char codigo__02[4];
     char nome_da_cidade__02[200];
-    int populacao__02, numero_pontos_turisticos__02;
+    unsigned long int populacao__02;
+    int numero_pontos_turisticos__02;
     float densidadePopulacional__02;
     float pibPerCapta__02;
     
