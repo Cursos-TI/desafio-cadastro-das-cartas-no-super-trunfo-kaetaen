@@ -4,6 +4,10 @@
 // Siga os comentários para implementar cada parte do desafio.
 // Aluno: José Rubens Dos Santos Oliveira
 
+/*
+Documentação: o prefixo __numero das variaveis representa o numero da carta
+Por exemplo: a variável codigo__01 representa o codigo da carta de n° 01
+*/
 #include <stdio.h>
 
 int main () {
